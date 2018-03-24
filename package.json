@@ -1,0 +1,9 @@
+{
+  "name": "auto-creating-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "David Binns <dwbinns@gmail.com> (http://www.davidbinns.me.uk/)",
+  "license": "MIT"
+}
