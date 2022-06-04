@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "keywords": [],
-  "author": "David Binns <dwbinns@gmail.com> (http://www.davidbinns.me.uk/)",
   "license": "MIT",
-  "repository": "dwbinns/structured-io"
+  "homepage": "https://github.com/dwbinns/auto-creating-map",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwbinns/auto-creating-map"
+  }
 }

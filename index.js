@@ -1,4 +1,4 @@
-class AutoCreatingMap extends Map {
+class AutoMap extends Map {
     constructor(factory) {
         super();
         this.factory=factory;
@@ -13,4 +13,4 @@ class AutoCreatingMap extends Map {
     }
 }
 
-module.exports=AutoCreatingMap;
+export default AutoMap;
